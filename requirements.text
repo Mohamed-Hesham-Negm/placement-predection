@@ -3,4 +3,9 @@ pandas
 numpy
 matplotlit
 scikit-learn
-sklearn
+sklearn.model_selection
+sklearn.metrics
+sklearn.linear_model
+sklearn.preprocessing
+sklearn.pipeline
+sklearn.preprocessing
